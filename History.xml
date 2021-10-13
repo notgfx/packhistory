@@ -3465,4 +3465,74 @@
     <card id="AT_001" />
     <card id="ICC_705" />
   </pack>
+  <pack time="637686863962692194" id="688">
+    <card id="BT_134" />
+    <card id="BT_203" />
+    <card id="SCH_513" premium="premium" />
+    <card id="SCH_247" />
+    <card id="BT_252" />
+  </pack>
+  <pack time="637686864120916072" id="602">
+    <card id="SW_095" />
+    <card id="SW_315" />
+    <card id="SW_003" />
+    <card id="SW_319" />
+    <card id="SW_321" />
+  </pack>
+  <pack time="637686864268906124" id="602">
+    <card id="SW_068" />
+    <card id="SW_084" />
+    <card id="SW_068" />
+    <card id="SW_036" />
+    <card id="SW_049" />
+  </pack>
+  <pack time="637686864392030462" id="602">
+    <card id="SW_459" />
+    <card id="SW_114" />
+    <card id="SW_085" />
+    <card id="SW_413" />
+    <card id="SW_451" />
+  </pack>
+  <pack time="637686864544877274" id="602">
+    <card id="SW_066" />
+    <card id="SW_439" />
+    <card id="SW_059" />
+    <card id="SW_068" />
+    <card id="SW_436" />
+  </pack>
+  <pack time="637692455063292413" id="602">
+    <card id="SW_455" />
+    <card id="SW_012" />
+    <card id="SW_049" />
+    <card id="SW_107" />
+    <card id="SW_059" />
+  </pack>
+  <pack time="637693353506220903" id="688">
+    <card id="SCH_138" />
+    <card id="BT_304" />
+    <card id="DMF_217" />
+    <card id="DMF_065" />
+    <card id="DMF_730" premium="premium" />
+  </pack>
+  <pack time="637694864278593896" id="714">
+    <card id="OG_145" />
+    <card id="CFM_065" />
+    <card id="AT_013" />
+    <card id="AT_055" />
+    <card id="ICC_067" />
+  </pack>
+  <pack time="637694864432411852" id="714">
+    <card id="LOOT_388" />
+    <card id="OG_248" />
+    <card id="ICC_408" />
+    <card id="UNG_854" />
+    <card id="GVG_096" />
+  </pack>
+  <pack time="637694864610986469" id="714">
+    <card id="LOOT_413" />
+    <card id="CFM_324" />
+    <card id="TRL_244" />
+    <card id="LOOT_033" />
+    <card id="CFM_650" premium="premium" />
+  </pack>
 </history>
