@@ -4837,4 +4837,18 @@
     <card id="GIL_837" />
     <card id="LOOT_060" />
   </pack>
+  <pack time="637807406568543144" id="1">
+    <card id="EX1_128" />
+    <card id="EX1_349" />
+    <card id="CS2_031" />
+    <card id="EX1_128" />
+    <card id="EX1_295" premium="premium" />
+  </pack>
+  <pack time="637807407717520840" id="713">
+    <card id="DMF_066" />
+    <card id="BAR_533" />
+    <card id="BAR_537" />
+    <card id="BT_123" />
+    <card id="AV_295" />
+  </pack>
 </history>
