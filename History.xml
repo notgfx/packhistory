@@ -4823,4 +4823,18 @@
     <card id="SCH_160" />
     <card id="SCH_535" />
   </pack>
+  <pack time="637807392103381207" id="688">
+    <card id="SCH_617" />
+    <card id="YOP_014" />
+    <card id="SCH_707" />
+    <card id="DMF_078" />
+    <card id="YOP_008" />
+  </pack>
+  <pack time="637807401832692220" id="714">
+    <card id="GVG_082" />
+    <card id="GIL_648" />
+    <card id="ULD_431" premium="premium" />
+    <card id="GIL_837" />
+    <card id="LOOT_060" />
+  </pack>
 </history>
