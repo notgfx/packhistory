@@ -4977,4 +4977,270 @@
     <card id="CFM_756" />
     <card id="OG_176" />
   </pack>
+  <pack time="637815042036708057" id="665">
+    <card id="AV_114" />
+    <card id="AV_360" />
+    <card id="AV_710" />
+    <card id="AV_219" />
+    <card id="AV_565" />
+  </pack>
+  <pack time="637815100012371640" id="665">
+    <card id="AV_323" />
+    <card id="ONY_025" />
+    <card id="AV_211" />
+    <card id="AV_323" />
+    <card id="AV_565" />
+  </pack>
+  <pack time="637815206531779401" id="688">
+    <card id="BT_140" />
+    <card id="DMF_511" />
+    <card id="BT_202" premium="premium" />
+    <card id="DMF_120" />
+    <card id="DMF_044" />
+  </pack>
+  <pack time="637815693800228969" id="665">
+    <card id="AV_710" />
+    <card id="ONY_020" />
+    <card id="ONY_024" />
+    <card id="ONY_014" />
+    <card id="AV_282" />
+  </pack>
+  <pack time="637815694155980015" id="714">
+    <card id="LOOT_233" />
+    <card id="BOT_558" />
+    <card id="AT_114" />
+    <card id="GVG_058" />
+    <card id="OG_158" />
+  </pack>
+  <pack time="637815694345080229" id="714">
+    <card id="GVG_065" />
+    <card id="LOOT_353" />
+    <card id="GIL_836" />
+    <card id="OG_083" />
+    <card id="BOT_224" />
+  </pack>
+  <pack time="637816944419346325" id="665">
+    <card id="AV_213" />
+    <card id="ONY_034" />
+    <card id="AV_259" />
+    <card id="ONY_008" />
+    <card id="AV_201" />
+  </pack>
+  <pack time="637816944563221645" id="665">
+    <card id="AV_132" />
+    <card id="AV_136" />
+    <card id="ONY_009" />
+    <card id="AV_251" />
+    <card id="ONY_032" />
+  </pack>
+  <pack time="637816944747559013" id="665">
+    <card id="AV_342" />
+    <card id="AV_333" premium="premium" />
+    <card id="ONY_006" />
+    <card id="AV_130" />
+    <card id="AV_565" />
+  </pack>
+  <pack time="637816944947100502" id="665">
+    <card id="ONY_013" />
+    <card id="AV_255" />
+    <card id="AV_259" />
+    <card id="AV_212" />
+    <card id="AV_401" />
+  </pack>
+  <pack time="637818305671360366" id="714">
+    <card id="GVG_034" />
+    <card id="ICC_050" />
+    <card id="OG_024" />
+    <card id="AT_114" />
+    <card id="UNG_020" />
+  </pack>
+  <pack time="637818305848006294" id="714">
+    <card id="OG_330" premium="premium" />
+    <card id="GVG_015" />
+    <card id="GIL_586" />
+    <card id="CFM_855" />
+    <card id="OG_152" />
+  </pack>
+  <pack time="637818306326021023" id="714">
+    <card id="GIL_902" />
+    <card id="ICC_850" />
+    <card id="LOOT_309" />
+    <card id="GIL_838" />
+    <card id="ICC_468" />
+  </pack>
+  <pack time="637818306607934221" id="714">
+    <card id="AT_101" />
+    <card id="UNG_816" />
+    <card id="BOT_538" />
+    <card id="AT_102" />
+    <card id="UNG_833" />
+  </pack>
+  <pack time="637818311324251356" id="714">
+    <card id="LOOT_056" />
+    <card id="LOOT_347" />
+    <card id="AT_064" />
+    <card id="ICC_089" />
+    <card id="BOT_431" />
+  </pack>
+  <pack time="637818311437510028" id="714">
+    <card id="ICC_281" />
+    <card id="GVG_065" />
+    <card id="AT_028" />
+    <card id="GIL_508" />
+    <card id="ICC_466" />
+  </pack>
+  <pack time="637818311576201741" id="714">
+    <card id="AT_133" />
+    <card id="GVG_022" />
+    <card id="AT_119" />
+    <card id="GIL_833" />
+    <card id="GIL_212" />
+  </pack>
+  <pack time="637818311698946584" id="714">
+    <card id="ICC_026" />
+    <card id="UNG_846" />
+    <card id="LOOT_091" />
+    <card id="GIL_608" />
+    <card id="UNG_813" />
+  </pack>
+  <pack time="637818311806320618" id="714">
+    <card id="BOT_411" />
+    <card id="GVG_070" />
+    <card id="GVG_069" />
+    <card id="CFM_752" />
+    <card id="AT_052" />
+  </pack>
+  <pack time="637818312062226866" id="714">
+    <card id="AT_102" />
+    <card id="LOOT_153" premium="premium" />
+    <card id="OG_327" />
+    <card id="AT_076" />
+    <card id="ICC_240" />
+  </pack>
+  <pack time="637818312164607874" id="714">
+    <card id="AT_133" />
+    <card id="AT_074" />
+    <card id="GVG_013" />
+    <card id="LOOT_018" />
+    <card id="OG_312" />
+  </pack>
+  <pack time="637818312333826778" id="714">
+    <card id="OG_273" />
+    <card id="GVG_043" />
+    <card id="UNG_845" />
+    <card id="GVG_068" />
+    <card id="ICC_801" />
+  </pack>
+  <pack time="637818312477705091" id="714">
+    <card id="OG_113" />
+    <card id="AT_029" />
+    <card id="AT_053" />
+    <card id="AT_066" />
+    <card id="TRL_245" />
+  </pack>
+  <pack time="637818312590060301" id="714">
+    <card id="GVG_067" />
+    <card id="GIL_557" />
+    <card id="BOT_420" />
+    <card id="BOT_224" />
+    <card id="AT_029" />
+  </pack>
+  <pack time="637818312905342895" id="714">
+    <card id="GVG_084" />
+    <card id="UNG_926" premium="premium" />
+    <card id="AT_020" />
+    <card id="BOT_098" />
+    <card id="UNG_941" />
+  </pack>
+  <pack time="637820167872832230" id="665">
+    <card id="AV_259" />
+    <card id="AV_565" />
+    <card id="ONY_016" />
+    <card id="ONY_027" />
+    <card id="ONY_030" />
+  </pack>
+  <pack time="637820177444605689" id="688">
+    <card id="DMF_704" />
+    <card id="DMF_191" />
+    <card id="BT_025" />
+    <card id="DMF_517" />
+    <card id="DMF_522" />
+  </pack>
+  <pack time="637820177990826801" id="714">
+    <card id="BOT_050" />
+    <card id="BOT_039" />
+    <card id="CFM_321" />
+    <card id="ICC_468" />
+    <card id="AT_119" />
+  </pack>
+  <pack time="637820178184887955" id="714">
+    <card id="GVG_053" />
+    <card id="AT_074" />
+    <card id="UNG_078" />
+    <card id="LOOT_152" />
+    <card id="UNG_801" />
+  </pack>
+  <pack time="637820178404880555" id="714">
+    <card id="AT_053" />
+    <card id="GVG_046" />
+    <card id="AT_006" />
+    <card id="AT_075" />
+    <card id="AT_091" />
+  </pack>
+  <pack time="637820215307566948" id="714">
+    <card id="ICC_700" />
+    <card id="ICC_808" />
+    <card id="AT_097" />
+    <card id="OG_311" />
+    <card id="GIL_801" />
+  </pack>
+  <pack time="637820537901744197" id="714">
+    <card id="ICC_069" />
+    <card id="AT_094" />
+    <card id="OG_284" />
+    <card id="UNG_807" />
+    <card id="AT_094" />
+  </pack>
+  <pack time="637822972533654608" id="714">
+    <card id="AT_100" />
+    <card id="UNG_021" />
+    <card id="AT_046" />
+    <card id="EX1_316" />
+    <card id="AT_026" />
+  </pack>
+  <pack time="637822972888979176" id="714">
+    <card id="ICC_856" />
+    <card id="GVG_051" />
+    <card id="OG_045" />
+    <card id="OG_249" />
+    <card id="UNG_845" />
+  </pack>
+  <pack time="637822972955534139" id="714">
+    <card id="GVG_011" />
+    <card id="ICC_082" />
+    <card id="LOOT_365" />
+    <card id="LOOT_044" />
+    <card id="OG_147" />
+  </pack>
+  <pack time="637822973145248757" id="714">
+    <card id="UNG_846" premium="premium" />
+    <card id="AT_024" />
+    <card id="UNG_809" />
+    <card id="AT_071" />
+    <card id="TRL_223" premium="premium" />
+  </pack>
+  <pack time="637822973298965604" id="714">
+    <card id="ICC_068" />
+    <card id="OG_081" />
+    <card id="GIL_801" />
+    <card id="AT_006" />
+    <card id="OG_241" />
+  </pack>
+  <pack time="637823743931085077" id="714">
+    <card id="GVG_082" />
+    <card id="BOT_101" />
+    <card id="AT_030" />
+    <card id="ICC_913" />
+    <card id="OG_323" />
+  </pack>
 </history>
