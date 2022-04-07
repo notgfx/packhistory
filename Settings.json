@@ -1,7 +1,7 @@
 {
-  "Spoil": false,
+  "Spoil": true,
   "PityOverlay": true,
   "Update": true,
   "ShowUntracked": true,
-  "GoldenResetRegularPityTimer": false
+  "GoldenResetRegularPityTimer": true
 }
