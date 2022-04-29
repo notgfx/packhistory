@@ -6055,4 +6055,60 @@
     <card id="TSC_776" />
     <card id="DED_511" />
   </pack>
+  <pack time="637860720957131822" id="694">
+    <card id="TSC_609" />
+    <card id="TSC_928" />
+    <card id="TSC_086" />
+    <card id="TSC_039" />
+    <card id="TSC_053" />
+  </pack>
+  <pack time="637860830658969753" id="713">
+    <card id="DED_500" />
+    <card id="TSC_071" />
+    <card id="TSC_963" />
+    <card id="AV_131" />
+    <card id="BAR_318" />
+  </pack>
+  <pack time="637867024894511682" id="713">
+    <card id="BAR_060" />
+    <card id="WC_007" />
+    <card id="WC_042" />
+    <card id="ONY_026" />
+    <card id="BAR_873" />
+  </pack>
+  <pack time="637867024992264472" id="713">
+    <card id="TSC_922" />
+    <card id="SW_061" />
+    <card id="AV_133" />
+    <card id="AV_342" />
+    <card id="SW_411" />
+  </pack>
+  <pack time="637867025302051436" id="694">
+    <card id="TSC_909" />
+    <card id="TSC_215" />
+    <card id="TSC_909" />
+    <card id="TSC_211" />
+    <card id="TSC_650" />
+  </pack>
+  <pack time="637867905844482674" id="694">
+    <card id="TSC_055" />
+    <card id="TSC_071" />
+    <card id="TSC_922" />
+    <card id="TSC_650" />
+    <card id="TSC_020" />
+  </pack>
+  <pack time="637867905955685743" id="694">
+    <card id="TSC_640" />
+    <card id="TSC_927" />
+    <card id="TSC_017" />
+    <card id="TSC_919" />
+    <card id="TSC_633" />
+  </pack>
+  <pack time="637867921231776176" id="694">
+    <card id="TSC_915" />
+    <card id="TSC_659" />
+    <card id="TSC_210" />
+    <card id="TSC_017" />
+    <card id="TSC_925" />
+  </pack>
 </history>
